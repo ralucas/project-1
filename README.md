@@ -3,4 +3,4 @@
 
 ### Proposal
 
-My proposal
+My new proposal
